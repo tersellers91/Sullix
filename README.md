@@ -17,3 +17,10 @@ To install run the following:
 
 
 On step 3, if you receive a message talking about some environment that is externally managed, instead use the command "sudo pip install -e . --break-system-packages"
+
+
+How to uninstall:
+
+sudo pip uninstall Sullix
+
+That's it.
