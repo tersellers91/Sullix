@@ -21,6 +21,7 @@ On step 3, if you receive a message talking about some environment that is exter
 
 How to uninstall:
 
-sudo pip uninstall Sullix
+sudo pip uninstall Sullix (--break-system-packages) 
+
 
 That's it.
