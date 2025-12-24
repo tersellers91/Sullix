@@ -1,5 +1,5 @@
 # Sullix
-TUI front-end for sww wallpaper tool.
+TUI front-end for swww wallpaper tool.
 
 Dependencies:
 swww (make sure that swww-daemon is running)
