@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Sullix"
+version = "1.0.0"
+description = "A TUI front-end for the swww wayland wallpaper application"
+authors = [
+  { name = "tersellers91" }
+]
+dependencies = [
+  "questionary",
+  "pyfiglet"
+]
+
+[project.scripts]
+Sullix = "Sullix:main"
