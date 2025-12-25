@@ -1,4 +1,7 @@
 # Sullix
+
+FOR ANY OF MY TOOLS/REPOS YOU CAN ALSO USE MY CODEBERG ACC: https://codeberg.org/aririchardson81
+
 TUI front-end for swww wallpaper tool.
 
 Dependencies:
